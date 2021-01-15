@@ -7,6 +7,23 @@
   pointer-events: none;
 }
 
+.typeahead{
+  margin-bottom: 15px;
+  
+}
+
+.title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.container{
+  margin: 15px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
